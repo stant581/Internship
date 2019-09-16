@@ -1,0 +1,4 @@
+#Fri Sep 06 17:21:12 IST 2019
+base.0=/home/ani/Desktop/September/flutter_ui_collection-master/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
